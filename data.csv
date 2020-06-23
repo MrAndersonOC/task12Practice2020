@@ -1,0 +1,51 @@
+TaskA: Weight of plums,TaskA: country,TaskB: Weight of potatoes,TaskB: Location,TaskC: Weight of oranges,Type of orange
+33,New Zealand,43,East,40,Navel
+34,New Zealand,107,East,42,Navel
+35,New Zealand,139,East,45,Navel
+39,New Zealand,141,East,48,Navel
+44,New Zealand,142,East,53,Navel
+45,New Zealand,150,East,55,Navel
+47,New Zealand,171,East,59,Navel
+47,New Zealand,172,East,65,Navel
+48,New Zealand,178,East,87,Navel
+54,New Zealand,214,East,100,Navel
+55,New Zealand,215,East,41,Valencia
+55,New Zealand,235,East,49,Valencia
+56,New Zealand,235,East,53,Valencia
+56,New Zealand,265,East,55,Valencia
+57,New Zealand,312,East,57,Valencia
+57,New Zealand,45,West,59,Valencia
+57,New Zealand,91,West,60,Valencia
+58,New Zealand,107,West,63,Valencia
+59,New Zealand,114,West,68,Valencia
+60,New Zealand,122,West,75,Valencia
+66,New Zealand,150,West,,
+66,New Zealand,156,West,,
+69,New Zealand,172,West,,
+73,New Zealand,177,West,,
+75,New Zealand,186,West,,
+34,Australia,187,West,,
+34,Australia,188,West,,
+35,Australia,213,West,,
+35,Australia,265,West,,
+36,Australia,313,West,,
+38,Australia,,,,
+41,Australia,,,,
+42,Australia,,,,
+44,Australia,,,,
+45,Australia,,,,
+47,Australia,,,,
+48,Australia,,,,
+50,Australia,,,,
+52,Australia,,,,
+53,Australia,,,,
+55,Australia,,,,
+56,Australia,,,,
+58,Australia,,,,
+62,Australia,,,,
+63,Australia,,,,
+65,Australia,,,,
+65,Australia,,,,
+67,Australia,,,,
+68,Australia,,,,
+73,Australia,,,,
